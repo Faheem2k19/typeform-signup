@@ -1,7 +1,7 @@
 "use client";
 import Header from "./components/header";
 import Signup from "./components/signup";
-import localFont from '@next/font/local';
+import localFont from 'next/font/local';
 
 const apercuPro = localFont({
   src: [{

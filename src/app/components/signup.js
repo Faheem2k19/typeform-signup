@@ -34,7 +34,6 @@ export default function Signup() {
         const isPasswordValid = validatePassword();
 
         if (isEmailValid && isPasswordValid) {
-            // Proceed with form submission
             console.log("Form submitted successfully");
         }
     };
