@@ -126,3 +126,11 @@ input,
   border-color: rgb(25, 25, 25);
   border-image: initial;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    overflow-y: auto;
+    background-color: white;
+  }
+
+}

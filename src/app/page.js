@@ -26,7 +26,7 @@ export default function Home() {
             </div>
           </div>
         </div>
-        <div className="grow bg-white h-screen rounded-tl-2xl rounded-bl-2xl">
+        <div className="grow bg-white h-screen lg:rounded-tl-2xl lg:rounded-bl-2xl">
           <Header />
           <div className="flex flex-col justify-center items-center h-full max-w-xs lg:max-w-xl mx-auto">
             <div className="fwwXdp">
